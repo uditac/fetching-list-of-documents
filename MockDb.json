@@ -1,0 +1,84 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Preparation",
+      "description": "Before your operation you are summoned to a day at the the hospital where you'll meet doctors and a nurse. They'll tell you about the operation and how to prepare for the operation at home. They'll take a blood sample and maybe measure your heart with an ECG.",
+      "source": "images/image_10.png"
+    },
+    {
+      "id": 2,
+      "title": "In the morning",
+      "description": "Man and woman at home before consultation, relaxing",
+      "source": "images/image_20.png"
+    },
+    {
+      "id": 3,
+      "title": "Family",
+      "description": "You can have a family member with you at the hospital before and after the operation.",
+      "source": "images/image_30.png"
+    },
+    {
+      "id": 4,
+      "title": "Conversation",
+      "description": "You will have a conversation with a nurse about the upcoming operation.",
+      "source": "images/image_40.png"
+    },
+    {
+      "id": 5,
+      "title": "Operation",
+      "description": "The nurse attaches some measurement devices to you, so she can monitor you during the operation.",
+      "source": "images/image_51.png"
+    },
+    {
+      "id": 6,
+      "title": "Recovery room",
+      "description": "After the operation you will be taken to a recovery room. While you are there the staff will keep an eye on you to see how you are doing. In the recovery room you will have peace and quite and rest.",
+      "source": "images/image_61.png"
+    },
+    {
+      "id": 7,
+      "title": "Check up",
+      "description": "We get the result of the operation after two weeks. Then we summon you to a talk at the hospital. We check up on how you are doing.",
+      "source": "images/image_70.png"
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "title": "Invoice1",
+      "description": "Invoice for Fitness",
+      "source": "documents/invoice1.docx"
+    },
+    {
+      "id": 2,
+      "title": "Invoice2",
+      "description": "Invoice for Internet",
+      "source": "documents/invoice2.docx"
+    },
+    {
+      "id": 3,
+      "title": "Invoice3",
+      "description": "Invoice for Apoteket",
+      "source": "documents/invoice3.docx"
+    },
+    {
+      "id": 4,
+      "title": "Invoice4",
+      "description": "Invoice for Sygehus",
+      "source": "documents/invoice4.docx"
+    },
+    {
+      "id": 5,
+      "title": "Invoice5",
+      "description": "Invoice for Sports",
+      "source": "documents/invoice5.docx"
+    },
+    {
+      "id": 6,
+      "title": "Invoice6",
+      "description": "Invoice for School",
+      "source": "documents/invoice6.docx"
+    }
+  ]
+}
